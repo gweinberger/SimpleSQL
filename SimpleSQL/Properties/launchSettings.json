@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "SimpleSQL": {
+      "commandName": "Project"
+    }
+  }
+}
